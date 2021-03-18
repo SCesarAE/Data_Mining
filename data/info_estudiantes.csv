@@ -1,0 +1,109 @@
+,nombre,edad,sexo,altura,peso,semestre,num_cursos,color_fav,mascota,cd_origen,consola,cantante_fav
+1,rosa isela ortiz guzman,24,m,1.68,67,8,35,negro,n,cuitzeo,n,rosalia
+2,elisa guadalupe zavala mendez,24,m,1.74,77,10,53,rosa,gato,yuriria,y,depeche mode
+3,edgar alvarado alvarado,27,h,1.75,70,9,56,negro,perro,yuriria,y,ariana grande
+4,juan carlos arredondo murillo,24,h,1.73,75,9,50,negro,n,yuriria,y,linking park
+5,anayeli guzman lopez,25,m,1.61,58,9,58,azul,perro,moroleon,n,ariana grande
+6,asael gutierrez zavala,28,h,1.79,75,5,33,rojo,perro,yuriria,y,bruno mars
+7,bianca michelle ortega zepeda ,25,m,1.52,60,9,58,morado,"perro,gato",salvatierra ,y,bts
+8,carlos alberto martinez paniagua,26,h,1.81,75,10,58,negro,perro,uriangato,y,pink floyd
+9,uriel calderon uribe,28,h,1.84,79,10,58,negro,perro,yuriria,y,led zeppelin
+10,maria guadalupe hernandez guiterrez,23,m,1.66,55,10,57,azul ,perro,yuriria,y,bts
+11,daniel alfredo alcocer soriano,22,h,1.89,84,8,38,rojo,perro ,salamanca,y,avicii
+12,jonatan raul flores saucedo,21,h,1.71,83,8,38,rojo,n,salamanca,y,dv&lm
+13,luis martin hernandez gonzalez,22,h,1.78,63,6,30,morado,perro ,salamanca,y,mago de oz
+14,carlo leonardo alcocer soriano,20,h,1.75,60,3,22,azul,perro,salamanca,y,one ok rock
+15,jose carmen perez lona,20,h,1.73,56,4,18,"morado, negro",perro,salamanca,y,charles ans
+16,emilio aaron puga avalos,21,h,1.67,62,8,43,verde,"perro, tortuga",guanajuato,y,reol
+17,ricardo adrian buena corona,22,h,1.7,110,8,45,azul,"perro, iguana",salamanca,y,alejandro fernandez
+18,steven yair penuelas torres,22,h,1.58,45,8,38,negro ,gato,silao,y,the score
+19,juan carlos carrasco,22,h,1.73,65,8,35,negro ,perro,salamanca,y,zoe
+20,brian gerardo covarrubias morales,21,h,1.7,65,5,28,azul ,perro,san luis de la paz,y,n
+21,jacobo hernandez varela,22,h,1.68,85,10,38,rojo,"perro, pez",guanajuato,y,daft punk
+22,esteban lopez elizarraraz,23,h,1.78,79,8,39,verde,perro,zamora,y,babasonicos
+23,alan blancarte dondiego,22,h,1.72,69,10,45,amarillo,perro,guanajuato,y,chelmico
+24,javier isidoro grimaldo palacios,23,h,1.68,84,4,26,vino ,"perico, tortuga",guanajuato,y,earth wind and fire
+25,fernando marquez alvarez,22,h,1.76,90,8,49,verde,perro,guanajuato,n,muse
+26,emmanuel rodriguez barajas,22,h,1.83,75,9,40,negro,"perro, gato",guanajuato,y,cristal castles
+27,cesar alonso luna herrera,22,h,1.71,70,6,35,azul,perro,guanajuato,y,modest mouse
+28,rogelio hashimoto campos,22,h,1.95,92,3,17,verde,perro,guanajuato,y,coldplay
+29,carlos alonso martinez palacios,23,h,1.7,72,9,44,verde,perro,guanajuato,y,the guadaloops
+30,edgar arturo yebra gonzalez,23,h,1.82,78,10,44,verde ,perro,guanajuato,y,the chemical brothers
+31,guillermo alberto jimenez frias,23,h,1.7,50,10,39,vino ,n,apaseo el grande,n,cafe tacvba
+32,jorge de jesus manriquez martinez,24,h,1.75,78,10,44,guinda,perro,salamanca,y,n
+33,emmanuel alejandro guillen manriquez,25,h,1.9,93,6,30,rojo,perro,salamanca,y,taylor swif
+34,silvia noemi gasca pina,21,m,1.63,62,5,33,"lila, amarillo",perro,cortazar,n,"coldplay, rels b"
+35,karla paola fernandez ortiz ,23,m,1.6,59,7,36,n,perro,irapuato,y,n
+36,arturo de jesus gutierrez flores ,21,h,1.83,90,7,36,naranja,pez,salamanca,y,n
+37,vicente ramirez gonzalez,22,h,1.84,93,10,49,negro,perro,salamanca,n,harry styles
+38,cesar antonio salgado escoto,23,h,1.75,56,8,37,azul,perro,salamanca,y,n
+39,leonardo juarez morales,21,h,1.78,56,8,39,azul,gato,irapuato,y,n
+40,carlos hugo garcia garcia,22,h,1.74,71,8,35,azul,gato,salamanca,y,gorillaz
+41,juan jose ramirez lopez,21,h,1.7,105,8,39,rojo,"perro, gato, ave",irapuato,n,juice wrld
+42,fernando andres chavez gavaldon,22,h,1.74,84,8,39,rojo,perro ,leon,n,mystery skulls
+43,frida martinez flores,22,m,1.62,65,10,51,verde,"perro, gato",irapuato,y,la garfield
+44,roberto jorge cruz soto,24,h,1.81,92,9,49,rojo,"perro, gato",salamanca,y,afi
+45,ricardo garcia jimenez,22,h,1.84,100,8,38,"verde, azul",perro ,salvatierra ,n,mac demarco
+46,karla valeria gutierrez ponce,20,m,1.58,65,7,36,gris,n,salamanca,n,n
+47,yardira diaz rodriguez,23,m,1.56,55,9,41,"rosa, azul",gato,salamanca,y,n
+48,fernando hiram juarez reyes,22,h,1.75,80,1,9,negro ,n,morelia,y,metallica
+49,damian sevilla gallardo,21,h,1.77,77,8,46,negro,perro,irapuato,y,imagine dragons
+50,carlos alejandro zaleta gallardo,24,h,1.8,90,9,48,verde,"perro, loro",salamanca,y,linkin park
+51,juan carlos alonso sanchez,22,h,1.72,82,8,46,naranja,gatos,irapuato,y,mgmt
+52,areli alejandra sevilla gallardo,22,m,1.63,75,10,57,azul,perro,cdmx,y,shawn mendez
+53,carlos castro navarrete,21,h,1.81,82,8,71,rojo,n,irapuato,n,ac dc
+54,luis daniel meza ruiz,22,h,1.69,77,7,35,negro,perro,salamanca,y,dharius
+55,luis duran moscada,22,h,1.8,110,8,45,negro,n,irapuato,y,alan walker
+56,nestor manuel bautista lara,23,h,1.78,90,8,40,verde,n,salamanca,n,rob zombie
+57,diana laura garcia gomez,23,m,1.6,64,10,55,azul,"gato, perro",cdmx,y,avenged sevenfold
+58,porfirio fabian garcia cortes,21,h,1.7,70,8,37,azul ,perro,dolores hidalgo,y,seiko omori
+59,dulce judith rodriguez reynoso,24,m,1.58,80,10,55,lila,"perro, gato, conejo, ave, rata, cuyo",leon,n,canserbero
+60,miguel angel gutierrez sanchez,21,h,1.75,55,8,44,negro,perro,leon,y,the chainsmokers
+61,linda litzy razo moreno,21,m,1.53,43,8,53,azul,perro,salamanca,y,harry styles
+62,eric humberto vargas rodriguez,21,h,1.78,60,8,50,azul,n,san luis de la paz,y,drake
+63,frida valeria aguilar san vicente,20,m,1.53,46,5,28,rosa,"perro, gato",salamanca,n,danna paola
+64,eric tome rodriguez,22,h,1.87,75,8,45,azul,perro,salamanca,y,nicky jam
+65,delia jazmin perez chacon,22,m,1.55,45,8,51,"rojo,amarillo,azul,vino",perro,irapuato,n,carlos rivera
+66,camila stephania contreras vallejo,24,m,1.73,58,8,54,amarillo,n,salamanca,n,the weekend
+67,angel jarym gomez meza,21,h,1.63,63,8,45,azul,n,jaral del progreso,n,avicii
+68,yara madian alvarez rangel,20,m,1.57,48,5,28,verde,n,salamanca,n,bad bunny
+69,adrian tome rodriguez,18,h,1.89,80,5,20,rojo,perro,torreon,y,sin bandera
+70,marco jair rodriguez hernandez,22,h,1.72,69,8,48,verde,"perro,gato",irapuato,y,the script
+71,cinthia fabiola sierra gonzalez,25,m,1.67,45,10,49,rosa,perro,valle de santiago,n,dua lipa
+72,alan jair manrriquez cervantes,23,h,1.8,100,8,62,azul ,perro,salamanca,y,joji
+72,cesar manuel padron garcia,23,h,1.75,73,10,49,blanco,perro,salamanca,y,n
+73,teresita de jesus elizarraras leyva,22,m,1.6,58,8,36,rosa,perro,salamanca,n,sam smith
+74,kenya jazmin dominguez vargas,23,m,1.6,59,10,54,rosa,perro,salamanca,n,carlos rivera
+77,juan aguilera huerta,18,h,1.83,72,2,13,amarillo,n,irapuato,n,coldplay
+78,miguel angel vazquez ulloa,24,h,1.63,67,10,50,gris,pajaro,guanajuato,n,n
+79,guillermo ramirez carpio,22,h,1.72,62,8,45,gris,perro,irapuato,n,doja cat
+80,ignacio salas rangel,22,h,1.75,75,6,30,verde,perro,irapuato,n,n
+81,emilia angelica ramirez carpio,23,m,1.65,48,9,47,morado,perro,irapuato,n,asian kung fu generation
+82,diego ivan ayala gomez ,22,h,1.69,75,5,23,negro ,perro,irapuato,n,slipknot
+83,jose jame villagomez guerra,22,h,1.76,80,6,32,azul,n,irapuato,y,camila
+84,juan pedro zavala gonzalez,22,h,1.77,69,6,34,rojo,perro,irapuato,n,angela aguilar
+85,sofia margarita montoya arredondo,22,m,1.61,45,6,27,morado,perro,irapuato,y,zoe
+86,juan carlos viloria alvarez,22,h,1.63,50,5,22,negro ,perro,irapuato,y,asking alexandria
+87,bryan de jesus mares barrientos,20,h,1.85,65,4,18,azul ,perro,salamanca,n,leonel garcia
+90,rosa gloria santoyo ramirez,22,m,1.6,65,8,48,rosa,gato,yuriria,n,siddhartha
+91,angel daniel ramos hurtado,19,h,1.7,68,3,13,azul,gato,guanajuato,y,guns and roses
+92,jonathan ledesma ruelas,24,h,1.67,100,13,43,verde,gato,irapuato,n,metallica
+93,laura alexis gonzalez torres,31,m,1.58,55,8,44,amarillo,perro,salamanca,n,mago de oz
+94,david israel ramos delgado,26,h,1.68,66,5,28,verde,perro,irapuato,y,metallica
+95,emanuel antonio vazques garcia,23,h,1.64,76,9,38,gris,perro,salamanca,y,proof
+96,abril aranda hernandez,19,m,1.59,45,4,20,verde,n,leon,y,taylor swift
+97,nestor alan  gomez vallejo,24,h,1.72,84,13,48,verde,perro,irapuato,n,t-pain
+99,eduardo prado aranda,23,h,1.69,75,10,40,azul ,perro,irapuato,y,corn
+100,francisco javier garcia vasquez,23,h,1.76,112,10,40,verde,n,valle de santiago,n,logic
+101,ivan vega celedon,25,h,1.75,78,13,43,morado,perro,salamanca,n,metallica
+102,lorena michel diaz cortes,21,m,1.63,55,7,45,rosa,gato,uriangato,n,videoclub
+103,mariana yanelli vargas hernandez,19,m,1.55,55,3,12,rojo,n,irapuato,n,imagine dragons
+104,magaly alely pedraza vallejo,22,m,1.67,60,9,50,morado,n,irapuato,y,katy perry
+105,saul efren rodriguez canchola,23,h,1.73,80,10,54,rojo,perro,tuxtla,y,nirvana
+106,vanessa lizbeth cortes lopez,19,m,1.56,53,4,27,lila,pez,la piedad,y,christian nodal
+107,ignacio zuniga gonzalez,22,h,1.7,72,9,50,verde,"gato, perro",san jose iturbide,y,gustavo ceratti
+108,jonathan uriel posada ramirez,22,m,1.75,62,9,51,verde,perro,salamanca,y,sabino
+109,angel isaac solorio alvarado,22,h,1.68,63,9,52,azul,n,la piedad,n,maroon 5
+110,harol alejandro barron perez,22,h,1.72,78,9,52,negro,perro,salamanca,y,daft punk
+111,francisco miguel zarate lopez,23,h,1.77,72,10,45,negro,n,guanajuato,y,rammstein
+112,ivan daniel hernandez roca,29,h,1.85,80,10,45,rojo,n,salamanca,y,eden
