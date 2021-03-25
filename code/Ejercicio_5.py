@@ -1,17 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Mar 16 14:19:48 2021
-@author: Cesar A. Salgado E.
+Created on Wed Mar 24 17:38:48 2021
+
+author: Cesar A. Salgado E.
 
 @Description: Leer el archivo con los datos de los estudiantes y para todas las variables 
 intervalo/razon,obtener el resumen de lis cinco números:
-    mínimo, máximo, 1er cuartir, mediana, 3er Cuartil ( graficar el boxplot)
+mínimo, máximo, 1er cuartir, mediana, 3er Cuartil ( graficar el boxplot)
+
+Encontrar los outliers
+a. calcular el rango interquartil (IQR)
+b. Calcular las vallas (upper inner fence, lower inner fence)
+c. Encontrar los whiskers (upper whisker, lower whisker)
+d. Encotrar los outliers --> lista de valores
 """
 
 import matplotlib.pyplot as plt
 import pandas as pd
 import math as mt
+
 
 def percentil(values, per):
     #Calculamos la posicion
@@ -22,8 +30,34 @@ def percentil(values, per):
     pu = mt.floor(pos)
     
     return values[pl]+(values[pu]-values[pl])*per
+
+def outliers(values, fq, tq):
+    iqr = tq - fq
+    uif = tq + 1.5 * (iqr)
+    lif = fq - 1.5 * (iqr)
     
-    
+    #Ciclo para encontrar el lower inner fance
+    for i in values:
+        if i >= lif:
+            lw = i
+            break
+    #Ciclo para encotrar el upper inner fanse 
+    #(la lista se encuetra ordenada por lo que se recorre en orden inverso)
+    for i in values[::-1]:
+        if i <= uif:
+            uw = i
+            break
+    #Calculamos outliers
+    outs =[]
+    for i in values:
+        #Si se encuentran fuera del upper inner fanse y de lower inner fanse
+        #entonces seran aoutliers
+        if i < lw or i > uw:
+            outs.append(i)
+            break
+        
+    return iqr, lw, uw, outs
+
 
 def summary(df, Val): 
     data = df[Val].tolist()
@@ -61,6 +95,18 @@ def summary(df, Val):
     plt.figure()
     plt.boxplot(data)
     plt.suptitle("Boxplot")   
+    
+    #Modificacion del Boxplot
+    #iran q, lower wisker, uper wisker, outliers
+    irq, lw, uw, outs = outliers(data, fq, tq)
+    
+    #imprimimos los valores
+    print(f' IRQ: {irq}')
+    print(f' LW: {lw}')
+    print(f' UW: {uw}')
+    print(f' Outs: {outs}')
+    
+    
 
 #DATA READING
 w_d = '/home/chicho/Documents/Universidad/DM/DM/data/'
@@ -78,4 +124,3 @@ lv = ["edad"]
 
 for i in lv:
     summary(df, i)
-
